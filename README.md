@@ -1,3 +1,5 @@
+    **NOTE:** This fork is necessary because web3 relies on dependencies that use es6. react-scripts will not transpile dependencies, so the build throws an error. Here we update the uglifyjs-webpack-plugin to a more recent version which uses uglify-es
+
 # Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
 
 Create React apps with no build configuration.

@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "name": "giveth-react-scripts",
-  "version": "1.0.12",
-  "description": "Configuration and scripts for Create React App. Update uglifyjs-webpack-plugin to 1.0.0-beta.2 to utilize uglify-es",
-=======
-  "name": "react-scripts",
   "version": "1.1.4",
-  "description": "Configuration and scripts for Create React App.",
->>>>>>> dfbc71ce2ae07547a8544cce14a1a23fac99e071
+  "description": "Configuration and scripts for Create React App. Update uglifyjs-webpack-plugin to 1.0.0-beta.2 to utilize uglify-es",
   "repository": "facebookincubator/create-react-app",
   "license": "MIT",
   "engines": {
